@@ -9,7 +9,7 @@ A fully responsive educational site built in 4 days to help users recognise earl
 - Strong accessibility focus: ARIA labels, color contrast, readable typography  
 - Validated HTML/CSS, zero errors, and mobile-first performance  
 - Clear information architecture + immediate CTAs to UK Government reporting  
-- Demonstrates prioritisation, rapid delivery, and careful communication under pressure
+- Demonstrates prioritisation, rapid delivery, and coding/git best practices under pressure
 
 **⏰ Time Constraint:** This project was completed under a strict 4-day time limit with no commits permitted after 5pm on the final cutoff day. The project has remained unmodified since submission to maintain academic integrity.
 
