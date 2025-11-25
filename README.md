@@ -1,4 +1,15 @@
-# Prevent Website
+# Prevent - My First-Ever Website — Awareness & Public-Safety Education (4-Day Build)
+
+A fully responsive educational site built in 4 days to help users recognise early signs of radicalisation and take action through official reporting channels. Designed with accessibility, clarity, and public safety in mind.
+
+## Key Highlights
+- Clean, semantic HTML5 + Bootstrap 5 + custom CSS  
+- Fully responsive design with strong UX for non-technical audiences  
+- Interactive carousel explaining key warning signs  
+- Strong accessibility focus: ARIA labels, color contrast, readable typography  
+- Validated HTML/CSS, zero errors, and mobile-first performance  
+- Clear information architecture + immediate CTAs to UK Government reporting  
+- Demonstrates prioritisation, rapid delivery, and careful communication under pressure
 
 **⏰ Time Constraint:** This project was completed under a strict 4-day time limit with no commits permitted after 5pm on the final cutoff day. The project has remained unmodified since submission to maintain academic integrity.
 
