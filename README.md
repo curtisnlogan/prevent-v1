@@ -11,10 +11,6 @@ A fully responsive educational site built in 4 days to help users recognise earl
 - Clear information architecture + immediate CTAs to UK Government reporting  
 - Demonstrates prioritisation, rapid delivery, and coding/git best practices under pressure
 
-**⏰ Time Constraint:** This project was completed under a strict 4-day time limit with no commits permitted after 5pm on the final cutoff day. The project has remained unmodified since submission to maintain academic integrity.
-
-A responsive educational website that helps users identify signs of radicalization and provides resources to report concerns about violent extremism.
-
 ## Purpose
 
 This website was created to raise awareness about the UK's Prevent strategy and educate the public on recognizing early warning signs of radicalization. The goal is to help vulnerable individuals avoid being lured into violent extremism by providing clear information about what to look for and how to take action when concerns arise.
